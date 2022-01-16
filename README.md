@@ -1,6 +1,6 @@
 # Vidstack Uploader
 
-Vidstack Uploader is in pre-alpha stage. Tap the watch button above to get notified of any developments.
+Vidstack Uploader is in the pre-alpha stage. Tap the watch button above to get notified of any developments.
 
 ## Alternatives
 
@@ -19,4 +19,4 @@ If you're interested in what we're building 👇
 
 - Star and watch our [projects](https://github.com/vidstack) for any updates.
 - Join our [Discord](https://discord.com/invite/7RGU7wvsu9) community channel.
-- Follow us on [Twitter](https://twitter.com/VidstackHQ) for announcements.
+- Follow us on [Twitter](https://twitter.com/vidstackjs) for announcements.
